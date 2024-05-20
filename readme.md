@@ -2,7 +2,7 @@
 
 Questo progetto é un sistema per gestire la tua libreria creato in Java, ti permette di aggiungere dei libri, cercare per libro o autore, aggiungere delle recensioni e molto altro. 
 
-Controllare la [presentazione](https://drive.google.com/file/d/1Vw6Nf2qpE7P9zIKZkpo45mWxLpYpe9rt/view?usp=sharing) o il [sito web](https://pep97.github.io/gestionale_libreria/) per vedere ogni singola feature. 
+Controllare la [presentazione](https://drive.google.com/file/d/1pgLZqFCoFSaUgIlphNruVOesUXjw8k26/view?usp=sharing) o il [sito web](https://pep97.github.io/gestionale_libreria/) per vedere ogni singola feature. 
 
 ## Prerequisiti
 
